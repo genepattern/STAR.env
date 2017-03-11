@@ -1,0 +1,20 @@
+#Sat, 11 Mar 2017 03:05:00 -0500
+#STAR.env
+#Fri Mar 10 14:03:03 EST 2017
+JVMLevel=
+LSID=urn\:lsid\:org.genepattern\:module.star\:00001\:0.0.2
+author=Peter Carr;Broad Institute
+categories=RNA-Seq
+commandLine=<run-with-env> -u star/2.5.2b STAR
+cpuType=any
+description=a demo module for using the STAR software package as an environment module
+fileFormat=
+language=any
+name=STAR.env
+os=any
+privacy=private
+quality=development
+taskDoc=
+taskType=RNA-Seq
+userid=pcarr@broadinstitute.org
+version=Changing base lsid to 'urn\:lsid\:org.genepattern\:module.star\:00001'
