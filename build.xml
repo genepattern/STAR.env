@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="STAR.env">
+    <import file="../common_module_code/build_tools/build-lsid.xml" />
+</project>
